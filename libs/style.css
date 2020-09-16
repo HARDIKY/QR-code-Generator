@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+.input-field{
+
+	border-radius: 10px;
+	width: 100em;
+	padding: .5em 2em 2em 2em;
+	margin:1em 5em 5em 3em;
+	height:26em;
+	align-items: center;
+}
+.qr-field{
+
+	border-radius: 10px;
+	width: 24em;
+	height:26em;
+	padding: .5em 2em 2em 2em;
+	padding-right: 50px;
+	margin:-31em 3em 5em;
+	float: right;
+	padding-top: 200px;
+}
+
+h3{
+	text-align:center;
+	background-color: bisque;
+	padding-top: 50px;
+	padding-bottom: 10px ;
+}
