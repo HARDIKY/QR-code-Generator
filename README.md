@@ -3,4 +3,4 @@
  
 # Demo Image of the project.
 
-![](demo.jpg)
+![](Demo.jpg.png)
